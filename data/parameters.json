@@ -1,0 +1,21 @@
+{
+	"reference" : {
+		"cte" : 0,
+		"eps" : 0,
+		"v" : 40
+		},
+	"horizon" : {
+		"N" : 15,
+		"dt" : 0.1
+		},
+	"cost" : {
+		"cte" : 3000,
+		"eps" : 400,
+		"v" : 1,
+		"delta_cur" : 1,
+		"delta_diff" : 300,
+		"a_cur": 1,
+		"a_diff" : 10
+		}
+}
+   
